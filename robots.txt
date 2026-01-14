@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spynovels.com/sitemap.xml
